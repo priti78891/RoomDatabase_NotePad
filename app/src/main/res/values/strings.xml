@@ -1,0 +1,8 @@
+<resources>
+
+
+    <string name="user">SELECT * FROM user</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+</resources>
